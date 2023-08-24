@@ -2,7 +2,7 @@
 
 Meu nome é Ana Beatriz
 
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou estudando na [Alura](https://editor.p5js.org/melhado.ana/full/3T5nYujus)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
